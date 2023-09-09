@@ -8,8 +8,11 @@ Randomize & Nulling Options // changes disk & smbios on randomize and nulls all 
 TUTORIAL : 
 
 Randomized Serials : 
+
 Nulled Serials : 
+
 How To Use :
+
 Preview : 
 
 Source Code : 
