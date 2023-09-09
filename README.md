@@ -13,7 +13,7 @@ Nulled Serials :
 
 How To Use :
 
-Preview : 
+Preview : https://streamable.com/wwkg0e
 
 *NOTE*
 This Is My First Time Posting So Go Easy Lol // Pretty Decent Source For People To Learn From But Please Dont Sell That Shit. Discord : sgz.2k (Will Provide Support To People With Brain)
