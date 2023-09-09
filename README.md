@@ -7,12 +7,9 @@ Randomize & Nulling Options // changes disk & smbios on randomize and nulls all 
 
 TUTORIAL : 
 
-Randomized Serials : 
-
-Nulled Serials : 
-
-How To Use :
-
+Randomized Serials : https://imgur.com/a/OC0ozWg
+Nulled Serials : https://imgur.com/a/OC0ozWg
+How To Use : sign out, cleaner, spoof and relogin. ur spoofed!
 Preview : https://streamable.com/wwkg0e
 
 *NOTE*
